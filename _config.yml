@@ -1,7 +1,7 @@
 title: Prikshit Singh
-logos: assets/images/youtubers%20analysis.png
+logo: assets/images/youtubers%20analysis.png
 show_downloads: True
-remote_themes : pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 -jekyll-remote-theme
 
