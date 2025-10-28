@@ -113,12 +113,75 @@ This included simulating possible sales outcomes based on key assumptions and co
 ### Excel Workbook Snapshot
 ### Excel Table
 
-| Channel Name       | Avg Views per Video (Excel) | Avg Views per Video (SQL) | Potential Product Sales per Video (Excel) | Potential Product Sales per Video (SQL) | Potential Revenue (Excel) | Potential Revenue (SQL) | Net Profit (Excel) | Net Profit (SQL) | Difference |
-|--------------------|------------------------------|-----------------------------|--------------------------------------------|-------------------------------------------|----------------------------|---------------------------|-------------------|------------------|-------------|
-| NoCopyrightSounds  | 6,920,000                    | 6,920,000                   | $138,400                                   | $138,400                                  | $692,000                   | $692,000                  | $687,000          | $687,000         | 0           |
-| DanTDM             | 5,340,000                    | 5,340,000                   | $106,800                                   | $106,800                                  | $534,000                   | $534,000                  | $529,000          | $529,000         | 0           |
-| DanRhodes          | 11,150,000                   | 11,150,000                  | $223,000                                   | $223,000                                  | $1,115,000                 | $1,115,000                | $1,110,000        | $1,110,000       | 0           |
-| Miss Katy          | 14,330,000                   | 14,330,000                  | $286,600                                   | $286,600                                  | $1,433,000                 | $1,433,000                | $1,428,000        | $1,428,000       | 0           |
+<h3>Excel Table</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Channel Name</th>
+      <th>Avg Views per Video (Excel)</th>
+      <th>Avg Views per Video (SQL)</th>
+      <th>Potential Product Sales per Video (Excel)</th>
+      <th>Potential Product Sales per Video (SQL)</th>
+      <th>Potential Revenue (Excel)</th>
+      <th>Potential Revenue (SQL)</th>
+      <th>Net Profit (Excel)</th>
+      <th>Net Profit (SQL)</th>
+      <th>Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NoCopyrightSounds</td>
+      <td>6,920,000</td>
+      <td>6,920,000</td>
+      <td>$138,400</td>
+      <td>$138,400</td>
+      <td>$692,000</td>
+      <td>$692,000</td>
+      <td>$687,000</td>
+      <td>$687,000</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>DanTDM</td>
+      <td>5,340,000</td>
+      <td>5,340,000</td>
+      <td>$106,800</td>
+      <td>$106,800</td>
+      <td>$534,000</td>
+      <td>$534,000</td>
+      <td>$529,000</td>
+      <td>$529,000</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>DanRhodes</td>
+      <td>11,150,000</td>
+      <td>11,150,000</td>
+      <td>$223,000</td>
+      <td>$223,000</td>
+      <td>$1,115,000</td>
+      <td>$1,115,000</td>
+      <td>$1,110,000</td>
+      <td>$1,110,000</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Miss Katy</td>
+      <td>14,330,000</td>
+      <td>14,330,000</td>
+      <td>$286,600</td>
+      <td>$286,600</td>
+      <td>$1,433,000</td>
+      <td>$1,433,000</td>
+      <td>$1,428,000</td>
+      <td>$1,428,000</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### Analysis Summary
