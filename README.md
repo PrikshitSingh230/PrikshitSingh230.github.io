@@ -90,7 +90,7 @@ After preparing the dataset, the data was visualized in Power BI to identify pat
 
 ### Dashboard Preview
 Check out the live Power BI dashboard here:  
-[View Dashboard]([youtubers analysis.png](https://github.com/PrikshitSingh230/PrikshitSingh230.github.io/blob/main/assets/images/youtubers%20analysis.png))
+[View Dashboard](assets/images/youtubers%20analysis.png)
 
 The dashboard helps decision-makers instantly compare performance, spot high-engagement creators, and filter insights interactively.
 
