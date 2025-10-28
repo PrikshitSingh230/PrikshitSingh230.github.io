@@ -111,12 +111,15 @@ This included simulating possible sales outcomes based on key assumptions and co
 | Campaign Cost | $5,000 |
 
 ### Excel Workbook Snapshot
-| Channel Name | Avg. Views/Video (Excel) | Avg. Views/Video (SQL) | Potential Product Sales/Video (Excel) | Potential Product Sales/Video (SQL) | Potential Revenue (Excel) | Potential Revenue (SQL) | Net Profit (Excel) | Net Profit (SQL) | Difference |
-|---------------|---------------------------|--------------------------|----------------------------------------|--------------------------------------|----------------------------|--------------------------|--------------------|------------------|-------------|
-| NoCopyrightSounds | 6,920,000 | 6,920,000 | $138,400 | $138,400 | $692,000 | $692,000 | $687,000 | $687,000 | 0 |
-| DanTDM | 5,340,000 | 5,340,000 | $106,800 | $106,800 | $534,000 | $534,000 | $529,000 | $529,000 | 0 |
-| DanRhodes | 11,150,000 | 11,150,000 | $223,000 | $223,000 | $1,115,000 | $1,115,000 | $1,110,000 | $1,110,000 | 0 |
-| Miss Katy | 14,330,000 | 14,330,000 | $286,600 | $286,600 | $1,433,000 | $1,433,000 | $1,428,000 | $1,428,000 | 0 |
+### Excel Table
+
+| Channel Name       | Avg Views per Video (Excel) | Avg Views per Video (SQL) | Potential Product Sales per Video (Excel) | Potential Product Sales per Video (SQL) | Potential Revenue (Excel) | Potential Revenue (SQL) | Net Profit (Excel) | Net Profit (SQL) | Difference |
+|--------------------|------------------------------|-----------------------------|--------------------------------------------|-------------------------------------------|----------------------------|---------------------------|-------------------|------------------|-------------|
+| NoCopyrightSounds  | 6,920,000                    | 6,920,000                   | $138,400                                   | $138,400                                  | $692,000                   | $692,000                  | $687,000          | $687,000         | 0           |
+| DanTDM             | 5,340,000                    | 5,340,000                   | $106,800                                   | $106,800                                  | $534,000                   | $534,000                  | $529,000          | $529,000         | 0           |
+| DanRhodes          | 11,150,000                   | 11,150,000                  | $223,000                                   | $223,000                                  | $1,115,000                 | $1,115,000                | $1,110,000        | $1,110,000       | 0           |
+| Miss Katy          | 14,330,000                   | 14,330,000                  | $286,600                                   | $286,600                                  | $1,433,000                 | $1,433,000                | $1,428,000        | $1,428,000       | 0           |
+
 
 ### Analysis Summary
 - Calculations were consistent between Excel and SQL, confirming data integrity.  
