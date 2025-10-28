@@ -104,11 +104,35 @@ To calculate potential returns and profitability, additional modeling was perfor
 This included simulating possible sales outcomes based on key assumptions and cost structures.
 
 ### Key Parameters
-| Metric | Value |
-|---------|--------|
-| Conversion Rate | 0.02 (2%) |
-| Product Cost | $5 |
-| Campaign Cost | $5,000 |
+<h3>Key Metrics</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Value</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Conversion Rate</td>
+      <td>0.02</td>
+      <td>Estimated percentage of viewers converting to buyers</td>
+    </tr>
+    <tr>
+      <td>Product Cost</td>
+      <td>$5</td>
+      <td>Cost per product sold</td>
+    </tr>
+    <tr>
+      <td>Campaign Cost</td>
+      <td>$5,000</td>
+      <td>Total marketing investment per campaign</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Excel Workbook Snapshot
 ### Excel Table
